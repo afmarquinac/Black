@@ -3,3 +3,9 @@ body{
     text-align: center;
     color: brown;
 }
+
+#cabecera{
+    background-color: cadetblue;
+    color: cornsilk;
+    font-weight: bold;
+}
